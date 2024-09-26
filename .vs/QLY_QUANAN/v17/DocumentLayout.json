@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0110\u1ED3 \u00E1n 1 (winform)\\QLY_QUANAN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A478DDA-FC45-4BE6-8A78-466E095D6A18}|QLY_QUANAN\\QLY_QUANAN.csproj|D:\\\u0110\u1ED3 \u00E1n 1 (winform)\\QLY_QUANAN\\qly_quanan\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A478DDA-FC45-4BE6-8A78-466E095D6A18}|QLY_QUANAN\\QLY_QUANAN.csproj|solutionrelative:qly_quanan\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A478DDA-FC45-4BE6-8A78-466E095D6A18}|QLY_QUANAN\\QLY_QUANAN.csproj|D:\\\u0110\u1ED3 \u00E1n 1 (winform)\\QLY_QUANAN\\qly_quanan\\xuathoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A478DDA-FC45-4BE6-8A78-466E095D6A18}|QLY_QUANAN\\QLY_QUANAN.csproj|solutionrelative:qly_quanan\\xuathoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A478DDA-FC45-4BE6-8A78-466E095D6A18}|QLY_QUANAN\\QLY_QUANAN.csproj|d:\\\u0111\u1ED3 \u00E1n 1 (winform)\\qly_quanan\\qly_quanan\\invoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A478DDA-FC45-4BE6-8A78-466E095D6A18}|QLY_QUANAN\\QLY_QUANAN.csproj|solutionrelative:qly_quanan\\invoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A478DDA-FC45-4BE6-8A78-466E095D6A18}|QLY_QUANAN\\QLY_QUANAN.csproj|d:\\\u0111\u1ED3 \u00E1n 1 (winform)\\qly_quanan\\qly_quanan\\invoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A478DDA-FC45-4BE6-8A78-466E095D6A18}|QLY_QUANAN\\QLY_QUANAN.csproj|solutionrelative:qly_quanan\\invoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A478DDA-FC45-4BE6-8A78-466E095D6A18}|QLY_QUANAN\\QLY_QUANAN.csproj|d:\\\u0111\u1ED3 \u00E1n 1 (winform)\\qly_quanan\\qly_quanan\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A478DDA-FC45-4BE6-8A78-466E095D6A18}|QLY_QUANAN\\QLY_QUANAN.csproj|solutionrelative:qly_quanan\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A478DDA-FC45-4BE6-8A78-466E095D6A18}|QLY_QUANAN\\QLY_QUANAN.csproj|D:\\\u0110\u1ED3 \u00E1n 1 (winform)\\QLY_QUANAN\\qly_quanan\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A478DDA-FC45-4BE6-8A78-466E095D6A18}|QLY_QUANAN\\QLY_QUANAN.csproj|solutionrelative:qly_quanan\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A478DDA-FC45-4BE6-8A78-466E095D6A18}|QLY_QUANAN\\QLY_QUANAN.csproj|D:\\\u0110\u1ED3 \u00E1n 1 (winform)\\QLY_QUANAN\\qly_quanan\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A478DDA-FC45-4BE6-8A78-466E095D6A18}|QLY_QUANAN\\QLY_QUANAN.csproj|solutionrelative:qly_quanan\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 470,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n 1 (winform)\\QLY_QUANAN\\QLY_QUANAN\\Login.cs",
+              "RelativeDocumentMoniker": "QLY_QUANAN\\Login.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n 1 (winform)\\QLY_QUANAN\\QLY_QUANAN\\Login.cs",
+              "RelativeToolTip": "QLY_QUANAN\\Login.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAWwE0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T16:45:49.318Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceForm.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n 1 (winform)\\QLY_QUANAN\\QLY_QUANAN\\InvoiceForm.cs",
+              "RelativeDocumentMoniker": "QLY_QUANAN\\InvoiceForm.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n 1 (winform)\\QLY_QUANAN\\QLY_QUANAN\\InvoiceForm.cs",
+              "RelativeToolTip": "QLY_QUANAN\\InvoiceForm.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAADgv6QAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:38:12.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoiceForm.cs [Design]",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n 1 (winform)\\QLY_QUANAN\\QLY_QUANAN\\InvoiceForm.cs",
+              "RelativeDocumentMoniker": "QLY_QUANAN\\InvoiceForm.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n 1 (winform)\\QLY_QUANAN\\QLY_QUANAN\\InvoiceForm.cs [Design]",
+              "RelativeToolTip": "QLY_QUANAN\\InvoiceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:38:08.453Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQL.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n 1 (winform)\\QLY_QUANAN\\QLY_QUANAN\\SQL.cs",
+              "RelativeDocumentMoniker": "QLY_QUANAN\\SQL.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n 1 (winform)\\QLY_QUANAN\\QLY_QUANAN\\SQL.cs",
+              "RelativeToolTip": "QLY_QUANAN\\SQL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:42:51.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XuatHoaDon.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n 1 (winform)\\QLY_QUANAN\\QLY_QUANAN\\XuatHoaDon.cs",
+              "RelativeDocumentMoniker": "QLY_QUANAN\\XuatHoaDon.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n 1 (winform)\\QLY_QUANAN\\QLY_QUANAN\\XuatHoaDon.cs*",
+              "RelativeToolTip": "QLY_QUANAN\\XuatHoaDon.cs*",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAQwKoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:00:21.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n 1 (winform)\\QLY_QUANAN\\QLY_QUANAN\\Admin.cs",
+              "RelativeDocumentMoniker": "QLY_QUANAN\\Admin.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n 1 (winform)\\QLY_QUANAN\\QLY_QUANAN\\Admin.cs*",
+              "RelativeToolTip": "QLY_QUANAN\\Admin.cs*",
+              "ViewState": "AQIAAPgAAAAAAAAAAAAQwBQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T06:04:19.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n 1 (winform)\\QLY_QUANAN\\QLY_QUANAN\\Admin.cs",
+              "RelativeDocumentMoniker": "QLY_QUANAN\\Admin.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n 1 (winform)\\QLY_QUANAN\\QLY_QUANAN\\Admin.cs [Design]*",
+              "RelativeToolTip": "QLY_QUANAN\\Admin.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:03:45.292Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
